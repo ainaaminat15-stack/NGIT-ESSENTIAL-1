@@ -1,0 +1,32 @@
+TASK 1; 
+STEP 1;I right-clicked on an empty space and clicked on.Then I created a folder and named it web basics
+STEP 2;Inside the web basics folder ,i right clicked again and created the sub folders[notes,projects and images]
+STEP 3;In the notes folder,i created a file called week1.txt
+STP 4;I wrote a short paragraph on what i learned in week 1
+
+
+TASK 2;
+step;i navigated to the web basics folder by type cd Desktop>web basics
+STEP 2;I created a new folder by writing mkdircli_practice
+STEP 3;Inside the new folder,I created a file called test.txt by typing type nul>test.txt
+STEP 4;I renamed the file by typing ren test.txt myfile.txt
+STEP 5;I displayed all the files in the directory by typing dir
+STEP 6;MKDIR TO MAKE A NEW DIRECTORY,TYPE NUL TO CREATE A FILE IN A FOLDER,REN TO CHANGE THE NAME OF A FILE,DIR TO LIST ALL DIRECTORIES
+
+
+TASK 3;
+STEP 1;I have installed vs code
+STEP 2;I opened the web basics folder in vscode bby clicing on open folder
+STEP 3;I created a file indexhtml in the projects folder by clicking on new file in the projects folder
+STEP 4;I wrote my first line of codd which was h1>Hello,world<h1>
+
+
+TASK 4;
+DOMAIN;google.com
+it uses https
+When I press Enter in the browser, the browser first reads the URL and figures out which server it needs to contact.
+It then sends a request over the internet using protocols like HTTP or HTTPS. The request travels through networks and routers until it reaches the correct web server. 
+The server processes the request, finds the requested page or data, and sends a response back to the browser. The browser receives this response, downloads the files (such as HTML,
+CSS, and JavaScript), and interprets them. Finally, the browser renders everything on the screen so the webpage appears for the user.
+
+
