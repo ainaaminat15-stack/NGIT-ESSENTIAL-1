@@ -1,0 +1,103 @@
+
+1. Computer, Hardware, and Software
+
+A computer is an electronic device that accepts data (input), processes it according to instructions, stores it, and produces output (information).
+
+Hardware refers to the physical components of a computer you can touch.
+Examples:
+
+ Keyboard
+ Monitor
+ Hard disk / SSD
+
+Software refers to programs and instructions that tell the computer what to do.
+Examples:
+
+ Windows OS
+ Microsoft Word
+ Google Chrome
+
+
+
+ 2. Operating System (OS)
+
+An operating system is system software that manages computer hardware and provides services for application software.
+
+Primary functions:
+
+1. Manages hardware resources (CPU, memory, storage, devices).
+2. Provides an interface for users to interact with the computer.
+
+
+
+3. Differences Between Windows and Linux
+
+ Windows                     | Linux                                   
+ Proprietary (paid license)  | Open-source (mostly free)               
+ User-friendly for beginners | More technical, preferred by developers 
+ More vulnerable to viruses  | More secure and stable                  
+
+
+
+ 4. Explanation of Terms
+
+File: A collection of data stored on a computer with a name (e.g., `report.docx`).
+Folder (Directory): A container used to organize and store files and other folders.
+File Extension: The suffix that indicates a file’s type (e.g., `.txt`, `.jpg`, `.exe`).
+
+
+ 5. Command Line
+
+The command line is a text-based interface used to interact with the computer by typing commands.
+
+Importance for developers:
+
+ Faster and more powerful than graphical interfaces
+ Used for automation, running programs, managing servers, and debugging
+
+
+
+ 6. Internet-Related Terms
+
+Server: A computer that provides data or services to other computers (clients).
+Browser: Software used to access and view websites (e.g., Chrome, Firefox).
+IP Address:A unique numerical identifier for a device on a network.
+DNS (Domain Name System): Converts domain names into IP addresses.
+HTTP:Protocol for transferring web data (not secure).
+HTTPS: Secure version of HTTP that encrypts data.
+
+
+ 7. Client–Server Model
+
+The client–server model is a network architecture where clients request services and servers provide them.
+
+Example:
+A web browser (client) requests a webpage, and a web server responds by sending the page.
+
+
+
+8. Frontend vs Backend Development
+
+Frontend: The visible part of a website users interact with (HTML, CSS, JavaScript).
+Backend: The server-side logic, database, and authentication (Python, Java, PHP, Node.js).
+
+
+
+ 9. Website, Domain, and Hosting
+
+Website: A collection of related web pages.
+Domain: The human-readable address of a website (e.g., `example.com`).
+Hosting: The service that stores website files on a server.
+
+How they work together:
+The domain points to the hosting server where the website files are stored.
+
+
+ 10. Browser Rendering Process (Brief)
+
+1. Browser requests the webpage from the server.
+2. HTML, CSS, and JavaScript files are downloaded.
+3. Browser builds the page structure (DOM & CSSOM).
+4. Page is rendered and displayed to the user.
+
+
